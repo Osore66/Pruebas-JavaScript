@@ -9,4 +9,3 @@
 // }else{
 // 	console.log(`${a} entre ${b} da exacto`);
 // }
-
