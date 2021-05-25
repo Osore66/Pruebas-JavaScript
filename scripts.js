@@ -1,3 +1,14 @@
+// EJEMPLO de if
+
+// let a = 2
+// let res = a%2
+
+// if (res == 0){
+//     console.log(`${a} es un numero par`)
+// }else{
+//     console.log(`${a} es un numero impar`)
+// }
+
 // EJEMPLO de if con negación
 
 // let a = 5;
@@ -20,5 +31,6 @@
 // }
 // console.log(suma(4,3))
 
-const suma = (num1, num2) => num1+num2
-console.log(suma(4,3))
+// const suma = (num1, num2) => num1+num2
+// console.log(suma(4,3))
+
